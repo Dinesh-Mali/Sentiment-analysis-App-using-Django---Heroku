@@ -12,3 +12,4 @@ Sentiment analysis is often performed on texual data to help business monitor fe
 2) Integrate the model with web application using Django to mount it there.
 
 3) Finally deploy the application on heroku.
+ 
